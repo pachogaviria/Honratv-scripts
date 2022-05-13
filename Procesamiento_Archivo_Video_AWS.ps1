@@ -2,7 +2,7 @@
 
 # PROCESAMIENTO DE ARCHIVOS DE VIDEO STREAMING
 # Autor:
-# Version: 1.0 (repo test)
+# Version: 1.0 (repo test2)
 
 #  0: Crear Carpetas de Videos (Podcast, Cafecitos, Capsulas) con su correspondiente Folder de Thumbnails (Miniaturas) -----> Pacho
 #  1: Synch Name: PodcastXXXX  - CafecitoXXX - CapsulasXXX
